@@ -56,8 +56,8 @@ PHP adalah singkatan dari PHP Hypertext Prepocessor dan merupakan bahasa pemrogr
     ```php
     <h2>Menggunakan Variable</h2>
     <?php
-    $nim = "0411500400";
-    $nama = 'Abdullah';
+    $nim = "312210360";
+    $nama = 'Muhammad Rizqi Maulana';
     echo "NIM : " . $nim . "<br>";
     echo "Nama : $nama";
     ?>
